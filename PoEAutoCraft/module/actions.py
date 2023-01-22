@@ -11,8 +11,16 @@ time_now = datetime.now().strftime('%Y%m%d%H%M%S')
 logging.basicConfig(level=logging.DEBUG, filename=f'log/PoECraftLog_{time_now}.log')
 
 item_location = 450, 600
-alt_location = 150, 350
-aug_location = 300, 450
+
+orb_locations = {
+'Orb of Augmentation': (300, 450)
+, 'Orb of Alteration': (150, 350)
+}
+orb_counts = {
+'Orb of Augmentation': 0
+, 'Orb of Alteration': 0
+}
+
 screen_size = pa.size()
 
 def get_mods(item_mods:str):
@@ -43,19 +51,23 @@ def measure_item():
     mods_dict = get_mods(item_mods)
     return mods_dict, item_properties
 
-def augment():
-    pa.moveTo(aug_location, duration = random.random()/2)
-    pa.rightClick()
-    pa.moveTo(item_location, duration = random.random()/2)
-    pa.click()
 
-def alterate(global_alt_count):
-    pa.moveTo(alt_location, duration = random.random()/2)
+def check_orb_available(orb_name):
+    pa.hotkey("ctrlleft",'altleft', "c")
+    orb_description = pyperclip.paste()
+    if orb_name not in orb_description:
+        error_message = 'No alterations available'
+        logging.error(error_message)
+        raise SystemExit(error_message)
+
+def apply_orb(orb_name, safe = True):
+    pa.moveTo(orb_locations[orb_name], duration = random.random()/2)
+    if safe:
+        check_orb_available(orb_name)
     pa.rightClick()
     pa.moveTo(item_location, duration = random.random()/2)
     pa.click()
-    global_alt_count += 1
-    return global_alt_count
+    orb_counts[orb_name] = orb_counts[orb_name] + 1
 
 def craft_twinned_map(max_alts = 30):
     done = False
@@ -72,7 +84,7 @@ def craft_twinned_map(max_alts = 30):
 
     if len(prefix_list) == 0:
         logging.info('Item has no prefixtes -> Augment.')
-        augment()
+        apply_orb('Orb of Augmentation')
 
     for prefix in mods_dict['Prefix Modifier']:
         if 'Twinned' in prefix[0]:
@@ -83,7 +95,7 @@ def craft_twinned_map(max_alts = 30):
     while not done:
 
         logging.info('Item is not twinned -> Alterate.')
-        global_alt_count = alterate(global_alt_count)
+        apply_orb('Orb of Alteration')
 
         mods_dict, item_properties = measure_item()
         logging.info('NEW STATE: ')
@@ -93,7 +105,7 @@ def craft_twinned_map(max_alts = 30):
 
         if len(prefix_list) == 0:
             logging.info('Item has no prefixtes -> Augment.')
-            augment()
+            apply_orb('Orb of Augmentation')
 
             mods_dict, item_properties = measure_item()
             logging.info('NEW STATE: ')
@@ -104,7 +116,7 @@ def craft_twinned_map(max_alts = 30):
                 done = True
                 logging.info('Item is twinned.')
 
-        if global_alt_count>max_alts:
+        if orb_counts['Orb of Alteration'] > max_alts:
             done = True
         if keyboard.is_pressed('space'):
             done = True
