@@ -1,0 +1,18 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Otherworldly', 1, ' ', '\nSlaying Enemies close together can attract monsters from Beyond this realm TAG Unscalable Value')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Multifarious', 1, ' ', '\nArea has increased monster variety')], 'Suffix Modifier': [('of Drought', 1, ' ', '\nPlayers gain 30% reduced Flask Charges')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 25% increased Life\nUnique Boss has 45% increased Area of Effect')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 30(25-30)% reduced Extra Damage from Critical Strikes')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Chaining', 1, ' ', "\nMonsters' skills Chain 2 additional times")], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n22(20-30)% more Magic Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Freezing', 1, ' TAG Damage, Physical, Elemental, Cold ', '\nMonsters deal 53(50-69)% extra Physical Damage as Cold')], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 27(25-30)% reduced Extra Damage from Critical Strikes')]}

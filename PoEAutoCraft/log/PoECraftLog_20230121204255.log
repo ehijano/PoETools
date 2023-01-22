@@ -1,0 +1,9 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Freezing', 1, ' TAG Damage, Physical, Elemental, Cold ', '\nMonsters deal 53(50-69)% extra Physical Damage as Cold')], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 27(25-30)% reduced Extra Damage from Critical Strikes')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Impervious', 1, ' TAG Physical, Chaos, Attack, Ailment ', '\nMonsters have a 20% chance to avoid Poison, Impale, and Bleeding')], 'Suffix Modifier': [('of Imprecision', 1, ' ', '\nPlayers have 15% less Accuracy Rating')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Doubt', 1, ' ', '\nPlayers have 25% reduced effect of Non-Curse Auras from Skills')]}
+INFO:root:Item has no prefixtes -> Augment.
