@@ -1,0 +1,60 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Conflagrating', 1, ' TAG Elemental, Fire, Ailment ', '\nAll Monster Damage from Hits always Ignites TAG Unscalable Value\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hexproof', 1, ' TAG Caster, Curse ', '\nMonsters are Hexproof TAG Unscalable Value')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Overlord's", 1, ' TAG Attack, Caster, Speed ', '\nUnique Boss deals 25% increased Damage\nUnique Boss has 30% increased Attack and Cast Speed')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Mirrored', 1, ' TAG Damage, Elemental ', '\nMonsters reflect 18% of Elemental Damage')], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Deadliness', 1, ' TAG Damage, Critical ', '\nMonsters have 381(360-400)% increased Critical Strike Chance\n+45(41-45)% to Monster Critical Strike Multiplier')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Anarchic', 1, ' ', '\nArea is inhabited by 2 additional Rogue Exiles')], 'Suffix Modifier': [('of Deadliness', 1, ' TAG Damage, Critical ', '\nMonsters have 381(360-400)% increased Critical Strike Chance\n+45(41-45)% to Monster Critical Strike Multiplier')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fecund', 1, ' TAG Life ', '\n44(40-49)% more Monster Life')], 'Suffix Modifier': [('of Miring', 1, ' TAG Attack ', '\nMonsters have 50% increased Accuracy Rating\nPlayers have -20% to amount of Suppressed Spell Damage Prevented\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Rust', 1, ' TAG Defences ', '\nPlayers have 30% less Armour\nPlayers have 40% reduced Chance to Block')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Congealment', 1, ' ', '\nCannot Leech from Monsters')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Anarchic', 1, ' ', '\nArea is inhabited by 2 additional Rogue Exiles')], 'Suffix Modifier': [('of Congealment', 1, ' ', '\nCannot Leech from Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': [('of Endurance', 1, ' ', '\nMonsters gain an Endurance Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Imprecision', 1, ' ', '\nPlayers have 25% less Accuracy Rating')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fleet', 1, ' TAG Attack, Caster, Speed ', '\n29(25-30)% increased Monster Movement Speed\n37(35-45)% increased Monster Attack Speed\n45(35-45)% increased Monster Cast Speed')], 'Suffix Modifier': [('of Endurance', 1, ' ', '\nMonsters gain an Endurance Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Armoured', 1, ' TAG Physical ', '\n+40% Monster Physical Damage Reduction')], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 32(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Exposure', 1, ' TAG Elemental, Resistance ', '\n-10(-12--9)% maximum Player Resistances')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item is twinned.
