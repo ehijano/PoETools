@@ -1,0 +1,51 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Armoured', 1, ' TAG Physical ', '\n+40% Monster Physical Damage Reduction')], 'Suffix Modifier': [('of Temporal Chains', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Temporal Chains\n(Temporal Chains is a Hex which reduces Action Speed by 15%, or 9% on Rare or Unique targets, and makes other effects on the target expire 40% slower. It has 50% less effect on Players and lasts 5 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Lunar', 1, ' ', '\nArea is inhabited by Lunaris fanatics TAG Unscalable Value')], 'Suffix Modifier': [('of Enfeeblement', 1, ' TAG Caster, Curse ', "\nPlayers are Cursed with Enfeeble\n(Enfeeble is a Hex which reduces the targets' Accuracy Rating by 10% and Damage by 15%, or 9% on Rare or Unique targets. It lasts 8 seconds)")]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Conflagrating', 1, ' TAG Elemental, Fire, Ailment ', '\nAll Monster Damage from Hits always Ignites TAG Unscalable Value\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Buffered', 1, ' ', '\nMonsters gain 42(40-49)% of Maximum Life as Extra Maximum Energy Shield')], 'Suffix Modifier': [('of Fatigue', 1, ' ', '\nPlayers have 40% less Cooldown Recovery Rate')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n22(20-30)% more Magic Monsters')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Conflagrating', 1, ' TAG Elemental, Fire, Ailment ', '\nAll Monster Damage from Hits always Ignites TAG Unscalable Value\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)')], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n22(20-30)% more Magic Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Consecration', 1, ' ', '\nArea has patches of Consecrated Ground')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Unwavering', 1, ' TAG Life ', '\n30(25-30)% more Monster Life\nMonsters cannot be Stunned TAG Unscalable Value')], 'Suffix Modifier': [('of Consecration', 1, ' ', '\nArea has patches of Consecrated Ground')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Armoured', 1, ' TAG Physical ', '\n+40% Monster Physical Damage Reduction')], 'Suffix Modifier': [('of Deadliness', 1, ' TAG Damage, Critical ', '\nMonsters have 389(360-400)% increased Critical Strike Chance\n+41(41-45)% to Monster Critical Strike Multiplier')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Oppressive', 1, ' ', '\nMonsters have +60% chance to Suppress Spell Damage\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Burning', 1, ' TAG Damage, Physical, Elemental, Fire ', '\nMonsters deal 106(90-110)% extra Physical Damage as Fire')], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hexproof', 1, ' TAG Caster, Curse ', '\nMonsters are Hexproof TAG Unscalable Value')], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Feasting', 1, ' ', '\nArea is inhabited by Cultists of Kitava TAG Unscalable Value')], 'Suffix Modifier': [('of Power', 1, ' ', '\nMonsters gain a Power Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Unwavering', 1, ' TAG Life ', '\n26(25-30)% more Monster Life\nMonsters cannot be Stunned TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is twinned.

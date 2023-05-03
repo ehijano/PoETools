@@ -1,0 +1,40 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Carnage', 1, ' ', '\nMonsters Maim on Hit with Attacks\n(Maimed enemies have 30% reduced Movement Speed)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Antagonist's", 1, ' ', '\n27(20-30)% increased number of Rare Monsters')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Conflagrating', 1, ' TAG Elemental, Fire, Ailment ', '\nAll Monster Damage from Hits always Ignites TAG Unscalable Value\n(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n28(20-30)% more Magic Monsters')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Multifarious', 1, ' ', '\nArea has increased monster variety')], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n28(20-30)% more Magic Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Imprecision', 1, ' ', '\nPlayers have 25% less Accuracy Rating')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Chaining', 1, ' ', "\nMonsters' skills Chain 2 additional times")], 'Suffix Modifier': [('of Imprecision', 1, ' ', '\nPlayers have 25% less Accuracy Rating')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Unwavering', 1, ' TAG Life ', '\n30(25-30)% more Monster Life\nMonsters cannot be Stunned TAG Unscalable Value')], 'Suffix Modifier': [('of Insulation', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have 70% chance to Avoid Elemental Ailments\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Multifarious', 1, ' ', '\nArea has increased monster variety')], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Insulation', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have 70% chance to Avoid Elemental Ailments\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')]}
+INFO:root:Item is twinned.

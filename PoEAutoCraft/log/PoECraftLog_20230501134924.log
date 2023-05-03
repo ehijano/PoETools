@@ -1,0 +1,33 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 32(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': [('of Endurance', 1, ' ', '\nMonsters gain an Endurance Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 31(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Oppressive', 1, ' ', '\nMonsters have +60% chance to Suppress Spell Damage\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': [('of Enervation', 1, ' ', '\nMonsters steal Power, Frenzy and Endurance charges on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 31(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': [('of Temporal Chains', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Temporal Chains\n(Temporal Chains is a Hex which reduces Action Speed by 15%, or 9% on Rare or Unique targets, and makes other effects on the target expire 40% slower. It has 50% less effect on Players and lasts 5 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Doubt', 1, ' ', '\nPlayers have 60% reduced effect of Non-Curse Auras from Skills')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Overlord's", 1, ' TAG Attack, Caster, Speed ', '\nUnique Boss deals 25% increased Damage\nUnique Boss has 30% increased Attack and Cast Speed')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Ceremonial', 1, ' ', '\nArea contains many Totems TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Temporal Chains', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Temporal Chains\n(Temporal Chains is a Hex which reduces Action Speed by 15%, or 9% on Rare or Unique targets, and makes other effects on the target expire 40% slower. It has 50% less effect on Players and lasts 5 seconds)')]}
+INFO:root:Item is twinned.

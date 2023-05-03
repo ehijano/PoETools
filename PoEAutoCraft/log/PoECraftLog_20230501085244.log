@@ -1,0 +1,66 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Feral', 1, ' ', '\nArea is inhabited by Animals TAG Unscalable Value')], 'Suffix Modifier': [('of Transience', 1, ' ', '\nBuffs on Players expire 70% faster')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Unwavering', 1, ' TAG Life ', '\n29(25-30)% more Monster Life\nMonsters cannot be Stunned TAG Unscalable Value')], 'Suffix Modifier': [('of Carnage', 1, ' ', '\nMonsters Maim on Hit with Attacks\n(Maimed enemies have 30% reduced Movement Speed)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Overlord's", 1, ' TAG Attack, Caster, Speed ', '\nUnique Boss deals 25% increased Damage\nUnique Boss has 30% increased Attack and Cast Speed')], 'Suffix Modifier': [('of Temporal Chains', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Temporal Chains\n(Temporal Chains is a Hex which reduces Action Speed by 15%, or 9% on Rare or Unique targets, and makes other effects on the target expire 40% slower. It has 50% less effect on Players and lasts 5 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fleet', 1, ' TAG Attack, Caster, Speed ', '\n27(25-30)% increased Monster Movement Speed\n44(35-45)% increased Monster Attack Speed\n38(35-45)% increased Monster Cast Speed')], 'Suffix Modifier': [('of Fatigue', 1, ' ', '\nPlayers have 40% less Cooldown Recovery Rate')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Antagonist's", 1, ' ', '\n22(20-30)% increased number of Rare Monsters')], 'Suffix Modifier': [('of Miring', 1, ' TAG Attack ', '\nMonsters have 50% increased Accuracy Rating\nPlayers have -20% to amount of Suppressed Spell Damage Prevented\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Otherworldly', 1, ' ', '\nSlaying Enemies close together can attract monsters from Beyond this realm TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Multifarious', 1, ' ', '\nArea has increased monster variety')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Impaling', 1, ' ', '\nMonsters have 60% chance to Impale with Attacks\n(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Armoured', 1, ' TAG Physical ', '\n+40% Monster Physical Damage Reduction')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Freezing', 1, ' TAG Damage, Physical, Elemental, Cold ', '\nMonsters deal 90(90-110)% extra Physical Damage as Cold')], 'Suffix Modifier': [('of Drought', 1, ' ', '\nPlayers gain 50% reduced Flask Charges')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Anarchic', 1, ' ', '\nArea is inhabited by 2 additional Rogue Exiles')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Chaining', 1, ' ', "\nMonsters' skills Chain 2 additional times")], 'Suffix Modifier': [('of Drought', 1, ' ', '\nPlayers gain 50% reduced Flask Charges')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Savage', 1, ' TAG Damage ', '\n23(22-25)% increased Monster Damage')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Feasting', 1, ' ', '\nArea is inhabited by Cultists of Kitava TAG Unscalable Value')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Oppressive', 1, ' ', '\nMonsters have +60% chance to Suppress Spell Damage\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 39(36-40)% reduced Extra Damage from Critical Strikes')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Empowered', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have a 20% chance to cause Elemental Ailments on Hit\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Burning', 1, ' TAG Damage, Physical, Elemental, Fire ', '\nMonsters deal 104(90-110)% extra Physical Damage as Fire')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Feral', 1, ' ', '\nArea is inhabited by Animals TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is twinned.
