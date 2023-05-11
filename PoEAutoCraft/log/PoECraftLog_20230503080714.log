@@ -1,0 +1,6 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Buffered', 1, ' ', '\nMonsters gain 49(40-49)% of Maximum Life as Extra Maximum Energy Shield')], 'Suffix Modifier': [('of Frenzy', 1, ' ', '\nMonsters gain a Frenzy Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is twinned.

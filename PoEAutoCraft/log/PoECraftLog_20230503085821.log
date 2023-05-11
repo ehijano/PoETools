@@ -1,0 +1,6 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Drought', 1, ' ', '\nPlayers gain 50% reduced Flask Charges')]}
+INFO:root:Item is twinned.

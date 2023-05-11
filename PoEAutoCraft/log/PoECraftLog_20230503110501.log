@@ -1,0 +1,36 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Chaining', 1, ' ', "\nMonsters' skills Chain 2 additional times")], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Unwavering', 1, ' TAG Life ', '\n29(25-30)% more Monster Life\nMonsters cannot be Stunned TAG Unscalable Value')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Miring', 1, ' TAG Attack ', '\nMonsters have 50% increased Accuracy Rating\nPlayers have -20% to amount of Suppressed Spell Damage Prevented\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Endurance', 1, ' ', '\nMonsters gain an Endurance Charge on Hit')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Anarchic', 1, ' ', '\nArea is inhabited by 2 additional Rogue Exiles')], 'Suffix Modifier': [('of Endurance', 1, ' ', '\nMonsters gain an Endurance Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Undead', 1, ' ', '\nArea is inhabited by Undead TAG Unscalable Value')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Buffered', 1, ' ', '\nMonsters gain 40(40-49)% of Maximum Life as Extra Maximum Energy Shield')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Empowered', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have a 20% chance to cause Elemental Ailments on Hit\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Buffered', 1, ' ', '\nMonsters gain 40(40-49)% of Maximum Life as Extra Maximum Energy Shield')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is twinned.

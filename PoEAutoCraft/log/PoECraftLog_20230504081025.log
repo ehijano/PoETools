@@ -1,0 +1,12 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': [('of Flames', 1, ' TAG Damage, Elemental, Fire ', '\nArea has patches of Burning Ground')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fleet', 1, ' TAG Attack, Caster, Speed ', '\n28(25-30)% increased Monster Movement Speed\n44(35-45)% increased Monster Attack Speed\n37(35-45)% increased Monster Cast Speed')], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n27(20-30)% more Magic Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is twinned.

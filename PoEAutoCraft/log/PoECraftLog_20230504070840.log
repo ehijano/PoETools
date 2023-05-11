@@ -1,0 +1,45 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fecund', 1, ' TAG Life ', '\n48(40-49)% more Monster Life')], 'Suffix Modifier': [('of Enervation', 1, ' ', '\nMonsters steal Power, Frenzy and Endurance charges on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences, Energy Shield ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences, Energy Shield ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Ceremonial', 1, ' ', '\nArea contains many Totems TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Impervious', 1, ' TAG Physical, Chaos, Attack, Ailment ', '\nMonsters have a 50% chance to avoid Poison, Impale, and Bleeding')], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Freezing', 1, ' TAG Damage, Physical, Elemental, Cold ', '\nMonsters deal 93(90-110)% extra Physical Damage as Cold')], 'Suffix Modifier': [('of Impedance', 1, ' ', '\nMonsters Hinder on Hit with Spells\n(Hinder reduces movement speed by 30% for 4 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Carnage', 1, ' ', '\nMonsters Maim on Hit with Attacks\n(Maimed enemies have 30% reduced Movement Speed)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hexproof', 1, ' TAG Caster, Curse ', '\nMonsters are Hexproof TAG Unscalable Value')], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 40(36-40)% reduced Extra Damage from Critical Strikes')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Feasting', 1, ' ', '\nArea is inhabited by Cultists of Kitava TAG Unscalable Value')], 'Suffix Modifier': [('of Bloodlines', 1, ' ', '\n25(20-30)% more Magic Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Bipedal', 1, ' ', '\nArea is inhabited by Humanoids TAG Unscalable Value')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': [('of Blinding', 1, ' ', '\nMonsters Blind on Hit\n(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Mirrored', 1, ' TAG Damage, Elemental ', '\nMonsters reflect 18% of Elemental Damage')], 'Suffix Modifier': [('of Exposure', 1, ' TAG Elemental, Resistance ', '\n-11(-12--9)% maximum Player Resistances')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Desecration', 1, ' TAG Damage, Chaos ', '\nArea has patches of desecrated ground')]}
+INFO:root:Item is twinned.
