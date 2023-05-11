@@ -1,0 +1,15 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Savage', 1, ' TAG Damage ', '\n25(22-25)% increased Monster Damage')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Antagonist's", 1, ' ', '\n24(20-30)% increased number of Rare Monsters')], 'Suffix Modifier': [('of Imprecision', 1, ' ', '\nPlayers have 25% less Accuracy Rating')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Venom', 1, ' TAG Chaos, Ailment ', '\nMonsters Poison on Hit TAG Unscalable Value\n(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)')]}
+INFO:root:Item is twinned.

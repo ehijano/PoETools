@@ -27,7 +27,7 @@ def get_mods(item_mods:str):
     #print(item_mods)
 
     mods_dict = {'Prefix Modifier':[], 'Suffix Modifier':[]}
-    pattern = re.compile(r"""{ ([^"]+) "([^"]+)" \(Tier: (\d)\)([^\}]+)}([^\{]+)""")
+    pattern = re.compile(r"""{ ([^"]+) "([^"]+)" \(Tier: (\d+)\)([^\}]+)}([^\{]+)""")
 
     
     for match in pattern.finditer(item_mods.replace('—','TAG').replace('\r\n','')):
@@ -45,6 +45,7 @@ def measure_item():
     pa.moveTo(item_location, duration=0.1)
     pa.hotkey("ctrlleft",'altleft', "c")
     item_description = pyperclip.paste()
+
     item_mods = item_description.split('--------')[-2]
     item_properties = item_description.split('--------')[0]
     
@@ -53,15 +54,16 @@ def measure_item():
 
 
 def check_orb_available(orb_name):
-    pa.hotkey("ctrlleft",'altleft', "c")
-    orb_description = pyperclip.paste()
-    if orb_name not in orb_description:
-        error_message = 'No alterations available'
-        logging.error(error_message)
-        raise SystemExit(error_message)
+    #pa.hotkey("ctrlleft",'altleft', "c")
+    #orb_description = pyperclip.paste()
+    #if orb_name not in orb_description:
+    #    error_message = 'No alterations available'
+    #    logging.error(error_message)
+    #    raise SystemExit(error_message)
+    xxxx  = 1
 
 def apply_orb(orb_name, safe = True):
-    pa.moveTo(orb_locations[orb_name], duration = random.random()/2)
+    pa.moveTo(orb_locations[orb_name], duration = random.random()/4)
     if safe:
         check_orb_available(orb_name)
     pa.rightClick()
@@ -69,7 +71,74 @@ def apply_orb(orb_name, safe = True):
     pa.click()
     orb_counts[orb_name] = orb_counts[orb_name] + 1
 
+
+
+def craft_spells1(max_alts = 50):
+    done = False
+
+    time.sleep(3)
+
+    mods_dict, item_properties = measure_item()
+    logging.info('NEW STATE: ')
+    logging.info(mods_dict)
+
+    
+    #if 'Rare' in item_properties:
+    #    logging.error('Item is rare')
+    #    raise SystemExit('Item is rare')
+    
+    prefix_list = mods_dict['Prefix Modifier']
+
+    if len(prefix_list) == 0:
+        logging.info('Item has no prefixtes -> Augment.')
+        apply_orb('Orb of Augmentation')
+
+    for prefix in mods_dict['Prefix Modifier']:
+        if 'Exalt' in prefix[0]:
+            done = True
+        elif 'Level of all Skill Gems' in prefix[3]:
+            done = True
+
+        #if 'Twinned' in prefix[0]:
+        #    logging.info('Item is twinned.')
+        #    done = True
+
+    while not done:
+
+        logging.info('Item is not finished -> Alterate.')
+        apply_orb('Orb of Alteration')
+
+        mods_dict, item_properties = measure_item()
+        logging.info('NEW STATE: ')
+        logging.info(mods_dict)
+
+        prefix_list = mods_dict['Prefix Modifier']
+
+        if len(prefix_list) == 0:
+            logging.info('Item has no prefixtes -> Augment.')
+            apply_orb('Orb of Augmentation')
+
+            mods_dict, item_properties = measure_item()
+            logging.info('NEW STATE: ')
+            logging.info(mods_dict)
+
+        for prefix in mods_dict['Prefix Modifier']:
+            if 'Exalt' in prefix[0]:
+                done = True
+            elif 'Level of all Skill Gems' in prefix[3]:
+                done = True
+
+        if orb_counts['Orb of Alteration'] > max_alts:
+            done = True
+            logging.info('Ran out of alts')
+        if keyboard.is_pressed('space'):
+            done = True
+
 def craft_twinned_map(max_alts = 30):
+
+    time.sleep(3)
+
+    
     done = False
     global_alt_count = 0
 

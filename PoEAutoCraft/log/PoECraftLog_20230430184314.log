@@ -1,0 +1,23 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Layered', 6, ' TAG Defences ', '\n11(9-13)% increased Armour')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Scintillating', 4, ' TAG Defences ', '\n+33(32-37) to maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Pulsing', 7, ' TAG Defences ', '\n+21(20-22) to maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Acrobat's", 5, ' TAG Defences ', '\n15(14-18)% increased Evasion Rating')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Layered', 6, ' TAG Defences ', '\n12(9-13)% increased Armour')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Indomitable', 2, ' TAG Defences ', '\n17(17-19)% increased maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Rimedweller's", 1, ' TAG Elemental, Cold, Gem ', '\n+1 to Level of all Cold Skill Gems')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}

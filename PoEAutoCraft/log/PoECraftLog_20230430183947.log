@@ -1,0 +1,71 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Beryl', 13, ' TAG Mana ', '\n+15(15-19) to maximum Mana')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Honed', 6, ' TAG Damage, Physical, Attack ', '\nAdds 4(4-6) to 9(9-10) Physical Damage to Attacks')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Blue', 3, ' TAG Mana ', '\n+65(65-68) to maximum Mana')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Discharging', 2, ' TAG Damage, Elemental, Lightning, Attack ', '\nAdds 3(3-6) to 59(57-61) Lightning Damage to Attacks')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Scintillating', 4, ' TAG Defences ', '\n+35(32-37) to maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Honed', 6, ' TAG Damage, Physical, Attack ', '\nAdds 5(4-6) to 9(9-10) Physical Damage to Attacks')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Strong-Willed', 6, ' TAG Defences ', '\n5(5-7)% increased maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Pulsing', 7, ' TAG Defences ', '\n+20(20-22) to maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Beryl', 13, ' TAG Mana ', '\n+19(15-19) to maximum Mana')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fearless', 4, ' TAG Defences ', '\n12(11-13)% increased maximum Energy Shield')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Honed', 6, ' TAG Damage, Physical, Attack ', '\nAdds 4(4-6) to 9(9-10) Physical Damage to Attacks')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hale', 9, ' TAG Life ', '\n+4(3-9) to maximum Life')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Impregnable', 1, ' TAG Defences ', '\n35(33-36)% increased Armour')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Frozen', 4, ' TAG Damage, Elemental, Cold, Attack ', '\nAdds 13(10-13) to 23(20-24) Cold Damage to Attacks')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Catalysing', 6, ' TAG Damage, Elemental, Attack ', '\n8(5-10)% increased Elemental Damage with Attack Skills')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}

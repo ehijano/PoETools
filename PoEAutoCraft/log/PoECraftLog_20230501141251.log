@@ -1,0 +1,75 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Empowered', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have a 20% chance to cause Elemental Ailments on Hit\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fleet', 1, ' TAG Attack, Caster, Speed ', '\n29(25-30)% increased Monster Movement Speed\n44(35-45)% increased Monster Attack Speed\n35(35-45)% increased Monster Cast Speed')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Antagonist's", 1, ' ', '\n21(20-30)% increased number of Rare Monsters')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hexproof', 1, ' TAG Caster, Curse ', '\nMonsters are Hexproof TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Savage', 1, ' TAG Damage ', '\n25(22-25)% increased Monster Damage')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Ceremonial', 1, ' ', '\nArea contains many Totems TAG Unscalable Value')], 'Suffix Modifier': [('of Impotence', 1, ' ', '\nPlayers have 25% less Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fleet', 1, ' TAG Attack, Caster, Speed ', '\n29(25-30)% increased Monster Movement Speed\n35(35-45)% increased Monster Attack Speed\n39(35-45)% increased Monster Cast Speed')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Hexproof', 1, ' TAG Caster, Curse ', '\nMonsters are Hexproof TAG Unscalable Value')], 'Suffix Modifier': [('of Lightning', 1, ' ', '\nArea has patches of Shocked Ground which increase Damage taken by 50%')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 31(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Ceremonial', 1, ' ', '\nArea contains many Totems TAG Unscalable Value')], 'Suffix Modifier': [('of Balance', 1, ' TAG Damage, Elemental ', '\nPlayers cannot inflict Exposure TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Smothering', 1, ' TAG Life, Defences ', '\nPlayers have 60% less Recovery Rate of Life and Energy Shield')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Burning', 1, ' TAG Damage, Physical, Elemental, Fire ', '\nMonsters deal 107(90-110)% extra Physical Damage as Fire')], 'Suffix Modifier': [('of Exposure', 1, ' TAG Elemental, Resistance ', '\n-12(-12--9)% maximum Player Resistances')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 32(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Burning', 1, ' TAG Damage, Physical, Elemental, Fire ', '\nMonsters deal 95(90-110)% extra Physical Damage as Fire')], 'Suffix Modifier': [('of Elemental Weakness', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Elemental Weakness\n(Elemental Weakness is a Hex which inficts -15% to all Elemental Resistances. It lasts 8 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Shocking', 1, ' TAG Damage, Physical, Elemental, Lightning ', '\nMonsters deal 92(90-110)% extra Physical Damage as Lightning')], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Mirrored', 1, ' TAG Damage, Elemental ', '\nMonsters reflect 18% of Elemental Damage')], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Mirrored', 1, ' TAG Damage, Elemental ', '\nMonsters reflect 18% of Elemental Damage')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Otherworldly', 1, ' ', '\nSlaying Enemies close together can attract monsters from Beyond this realm TAG Unscalable Value')], 'Suffix Modifier': [('of Giants', 1, ' ', '\nMonsters have 100% increased Area of Effect')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Elemental Weakness', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Elemental Weakness\n(Elemental Weakness is a Hex which inficts -15% to all Elemental Resistances. It lasts 8 seconds)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Burning', 1, ' TAG Damage, Physical, Elemental, Fire ', '\nMonsters deal 109(90-110)% extra Physical Damage as Fire')], 'Suffix Modifier': [('of Elemental Weakness', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Elemental Weakness\n(Elemental Weakness is a Hex which inficts -15% to all Elemental Resistances. It lasts 8 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Power', 1, ' ', '\nMonsters gain a Power Charge on Hit')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Multifarious', 1, ' ', '\nArea has increased monster variety')], 'Suffix Modifier': [('of Power', 1, ' ', '\nMonsters gain a Power Charge on Hit')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Consecration', 1, ' ', '\nArea has patches of Consecrated Ground')]}
+INFO:root:Item is twinned.

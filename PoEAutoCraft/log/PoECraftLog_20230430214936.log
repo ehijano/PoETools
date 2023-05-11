@@ -1,0 +1,12 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Deadliness', 1, ' TAG Damage, Critical ', '\nMonsters have 362(360-400)% increased Critical Strike Chance\n+41(41-45)% to Monster Critical Strike Multiplier')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Chaining', 1, ' ', "\nMonsters' skills Chain 2 additional times")], 'Suffix Modifier': [('of Deadliness', 1, ' TAG Damage, Critical ', '\nMonsters have 362(360-400)% increased Critical Strike Chance\n+41(41-45)% to Monster Critical Strike Multiplier')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Transience', 1, ' ', '\nBuffs on Players expire 70% faster')]}
+INFO:root:Item is twinned.

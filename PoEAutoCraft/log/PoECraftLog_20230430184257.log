@@ -1,0 +1,5 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Catalysing', 6, ' TAG Damage, Elemental, Attack ', '\n8(5-10)% increased Elemental Damage with Attack Skills')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}
+INFO:root:Item is not finished -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Rimedweller's", 1, ' TAG Elemental, Cold, Gem ', '\n+1 to Level of all Cold Skill Gems')], 'Suffix Modifier': [('of Tzteosh', 1, ' TAG Elemental, Fire, Resistance ', '\n+46(46-48)% to Fire Resistance (fractured)')]}

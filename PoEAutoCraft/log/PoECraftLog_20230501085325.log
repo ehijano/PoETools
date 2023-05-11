@@ -1,0 +1,39 @@
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Splitting', 1, ' ', '\nMonsters fire 2 additional Projectiles')], 'Suffix Modifier': [('of Blinding', 1, ' ', '\nMonsters Blind on Hit\n(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Otherworldly', 1, ' ', '\nSlaying Enemies close together can attract monsters from Beyond this realm TAG Unscalable Value')], 'Suffix Modifier': [('of Vulnerability', 1, ' TAG Caster, Curse ', '\nPlayers are Cursed with Vulnerability\n(Vulnerability is a Hex which increases Physical Damage taken by 15% and causes Hits to have +25% chance to inflict Bleeding on the target. It lasts 8 seconds)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Abhorrent', 1, ' ', '\nArea is inhabited by Abominations TAG Unscalable Value')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Resistant', 1, ' TAG Elemental, Chaos, Resistance ', '\n+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances')], 'Suffix Modifier': [('of Congealment', 1, ' ', '\nCannot Leech from Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fecund', 1, ' TAG Life ', '\n47(40-49)% more Monster Life')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Titan's", 1, ' TAG Life ', '\nUnique Boss has 35% increased Life\nUnique Boss has 70% increased Area of Effect')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Fecund', 1, ' TAG Life ', '\n43(40-49)% more Monster Life')], 'Suffix Modifier': [('of Stasis', 1, ' TAG Life, Mana, Defences ', '\nPlayers cannot Regenerate Life, Mana or Energy Shield TAG Unscalable Value')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [], 'Suffix Modifier': [('of Miring', 1, ' TAG Attack ', '\nMonsters have 50% increased Accuracy Rating\nPlayers have -20% to amount of Suppressed Spell Damage Prevented\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')]}
+INFO:root:Item has no prefixtes -> Augment.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Profane', 1, ' TAG Damage, Physical, Chaos ', '\nMonsters deal 32(31-35)% extra Physical Damage as Chaos\nMonsters Inflict Withered for 2 seconds on Hit\n(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)')], 'Suffix Modifier': [('of Miring', 1, ' TAG Attack ', '\nMonsters have 50% increased Accuracy Rating\nPlayers have -20% to amount of Suppressed Spell Damage Prevented\n(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [("Overlord's", 1, ' TAG Attack, Caster, Speed ', '\nUnique Boss deals 25% increased Damage\nUnique Boss has 30% increased Attack and Cast Speed')], 'Suffix Modifier': []}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Empowered', 1, ' TAG Elemental, Fire, Cold, Lightning, Ailment ', '\nMonsters have a 20% chance to cause Elemental Ailments on Hit\n(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)')], 'Suffix Modifier': [('of Congealment', 1, ' ', '\nCannot Leech from Monsters')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Enthralled', 1, ' ', '\nUnique Bosses are Possessed')], 'Suffix Modifier': [('of Toughness', 1, ' TAG Damage, Critical ', '\nMonsters take 38(36-40)% reduced Extra Damage from Critical Strikes')]}
+INFO:root:Item is not twinned -> Alterate.
+INFO:root:NEW STATE: 
+INFO:root:{'Prefix Modifier': [('Twinned', 1, ' ', '\nArea contains two Unique Bosses TAG Unscalable Value')], 'Suffix Modifier': [('of Impedance', 1, ' ', '\nMonsters Hinder on Hit with Spells\n(Hinder reduces movement speed by 30% for 4 seconds)')]}
+INFO:root:Item is twinned.
